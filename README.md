@@ -26,3 +26,5 @@ FileList-to-HTML.ps1 -r -o X:\path\to\somefolder
 ```
 FileList-to-HTML.ps1 -help
 ```
+## Sample Screenshot
+![image](https://github.com/user-attachments/assets/dac9ddcf-ea9e-4178-a818-ba0e9503cbda)
